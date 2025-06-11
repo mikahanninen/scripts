@@ -4,11 +4,11 @@ A collection of useful Python scripts for various tasks.
 
 ## Scripts Overview
 
-| Script | Description |
-|--------|-------------|
-| `electricity.py` | Fetches and displays current electricity prices in Finland using the Pörssisähkö API. Shows prices in a color-coded table format (green for low, yellow for medium, red for high prices). |
-| `git-smart-commit.py` | An AI-powered Git commit message generator that uses GPT-4 to create meaningful commit messages based on staged changes. Requires OpenAI API key. |
-| `weather.py` | Weather information fetcher that displays current weather conditions, temperature, wind speed, and sunrise/sunset times for a specified city. Uses OpenWeatherMap API. |
+| Script | Description | Example output |
+|--------|-------------|----------------|
+| `electricity.py` | Fetches and displays current electricity prices in Finland using the Pörssisähkö API. Shows prices in a color-coded table format (green for low, yellow for medium, red for high prices). | - |
+| `git-smart-commit.py` | An AI-powered Git commit message generator that uses GPT-4 to create meaningful commit messages based on staged changes. Requires OpenAI API key. | - |
+| `weather.py` | Weather information fetcher that displays current weather conditions, temperature, wind speed, and sunrise/sunset times for a specified city. Uses OpenWeatherMap API. | - |
 
 ## Requirements
 
